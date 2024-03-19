@@ -1,0 +1,1 @@
+{ "editor.formatOnSave": true, "javascript.format.enable": true, "editor.defaultFormatter": "octref.vetur", "[javascript]": { "editor.defaultFormatter": "esbenp.prettier-vscode" }, "[javascriptreact]": { "editor.defaultFormatter": "esbenp.prettier-vscode" }}
